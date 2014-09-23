@@ -68,7 +68,7 @@ namespace WindowsFormsApplication1
                 return;
             }
 
-            //修改student的属性
+            //修改student
             editStudent = st;
 
             //执行更新操作
